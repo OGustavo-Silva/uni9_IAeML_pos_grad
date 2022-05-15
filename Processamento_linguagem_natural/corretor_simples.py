@@ -1,4 +1,5 @@
 from nltk import tokenize
+from nltk.metrics import distance
 
 #Abre arquivo txt contendo o dicionario BR
 #LINK: https://www.ime.usp.br/~pf/dicios/br-utf8.txt
